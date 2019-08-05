@@ -1,6 +1,9 @@
-# Library
-This project is an android library project template.
+# zxing-android
+An android client for **zxing-lite**(https://github.com/Rysle/zxing-lite/). 
 
-It uses **PublishToBintray** (https://github.com/Rysle/PublishToBintray/) to enable publishing to jcenter / bintray
+Convenient to integrate with your project.
 
-You can clone it and edit **publish.properties** to begin your project.
+## How to use
+```gradle
+implementation 'com.rysle.lib:zxing.android:3.4.0'
+```
